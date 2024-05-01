@@ -1,5 +1,7 @@
 # OpenAI_HelloWorld
-Intro experimentation with OpenAI: providing a prompt and specifying different roles for the model
+ABSTRACT: Intro experimentation with OpenAI: providing a prompt and specifying different roles for the model
+
+Source: https://www.oreilly.com/library/view/developing-apps-with/9781098152475/
 
 ## If you don't have an API key (you need one to run code with OpenAI)
 1. Make an OpenAI account
